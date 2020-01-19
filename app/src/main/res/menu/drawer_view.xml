@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_payout"
+            android:title="Paiement" />
+        <item
+            android:id="@+id/nav_gallery"
+            android:title="Vos courses" />
+        <item
+            android:id="@+id/nav_slideshow"
+            android:title="Aide" />
+        <item
+            android:id="@+id/nav_manage"
+            android:title="Paramètres" />
+    </group>
+</menu>

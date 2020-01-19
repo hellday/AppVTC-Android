@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AppVTC</string>
+
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+    // MainActivity
+    <string name="loginButton">Se connecter</string>
+    <string name="registerButton">S\'enregistrer</string>
+    <string name="title_activity_maps">App VTC</string>
+
+
+</resources>
